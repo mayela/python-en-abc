@@ -12,3 +12,5 @@ Recursos
 - [https://docs.python-guide.org/]
 - [https://www.obeythetestinggoat.com/pages/book.html]
 - [https://www.learnpython.dev/]
+- [https://tutorial.djangogirls.org/]
+- [https://www.textbook.ds100.org/intro]
